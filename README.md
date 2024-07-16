@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🪩 , I'm Estefania </h1>
+<h1 align="center">Hi 🙌🏽, I'm Estefania  🪩 </h1>
 ✨I’m currently learning Data Science and Web Development💻📊
 
  📫 How to reach me **ortizc.estefania@gmail.com**
