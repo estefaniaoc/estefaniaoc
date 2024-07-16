@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Estefania</h1>
-- 🌱 I’m currently learning **Data Science and Web Development**
+🌱 I’m currently learning Data Science and Web Development
 
-- 📫 How to reach me **ortizc.estefania@gmail.com**
+ 📫 How to reach me **ortizc.estefania@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
